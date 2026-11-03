@@ -20,7 +20,7 @@ Each button searches for the movie's title (plus release year, except MetaCritic
 ### Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Open the [raw script](https://raw.githubusercontent.com/xb00tt/lilenhancer/main/moviescountdown-links.user.js) and confirm the install.
+2. Install from [Greasy Fork](https://greasyfork.org/en/scripts/603618-moviescountdown-quick-links), or open the [raw script](https://raw.githubusercontent.com/xb00tt/lilenhancer/main/moviescountdown-links.user.js) and confirm the install.
 
 In Chrome-based browsers, Tampermonkey needs "Allow User Scripts" turned on in the extension's details page.
 
