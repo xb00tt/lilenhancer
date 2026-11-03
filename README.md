@@ -39,7 +39,6 @@ In Chrome-based browsers, Tampermonkey needs "Allow User Scripts" turned on in t
 ### Notes
 
 - Button icons come from [Simple Icons](https://simpleicons.org/) and the gear from [Tabler Icons](https://tabler.io/icons), both via jsDelivr.
-- Icon/text centring uses CSS `text-box`; in Firefox, which lacks it, icons sit about half a pixel off.
 
 ## License
 
